@@ -12,8 +12,7 @@ public class Admin {
 		
 	
 		
-		System.out.println("*+*+*+*+*AYNUR+*+*+*+*+*+* 3 eleman yazdırmalı");
-		System.out.println("  arrjhrtkjh "+ manager.engine.get(0));
+		System.out.println( manager.engine.get(0));
 		
 		
 		
