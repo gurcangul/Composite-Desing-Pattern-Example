@@ -9,7 +9,7 @@ public class Manager {//Client == Manager
 	}
 		Product product1=new Part(1,"Camshaft", 20000.0);		//leaf == Part
 		Product product2=new Part(2,"parça2", 25000.0);		 //leaf == Part	
-		Product product3=new Part(1,"parça3", 20000.0);
+		Product product3=new Part(1,"parça3", 20000.0);		
 		Product product4=new Part(1,"parçaboşşşş", 20000.0);
 
 		Product assembly=new Assembly(1,"Engine Block",100000.0); // composite == Assembly
